@@ -1,5 +1,4 @@
-# 29 August
-
+# Spammy Domains
 domain:sinocp.org
 domain:fragolize.it
 domain:ezratuba.com
@@ -12474,3 +12473,4 @@ domain:indiahealthtourism.com
 domain:mamiefrancoisealecole.blogspot.com
 domain:bodil-hedegaard.dk
 domain:dilaaulasdefrances.com
+
