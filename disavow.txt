@@ -2,7 +2,7 @@ domain:fastissimo.com
 domain:wifeo.com
 domain:sublimedir.net
 domain:familydir.com
-domain:bbactif.com
+
 domain:sante-dz.org
 domain:targetlink.biz
 domain:searchdomainhere.com
@@ -27,7 +27,6 @@ domain:easybranches.name
 domain:saint-tropez-city.com
 domain:francite.com
 domain:yoolink.fr
-domain:dpstream.net
 domain:foad-spirit.net
 domain:1daohang.com
 domain:imigracao-quebec.blogspot.com
@@ -57,7 +56,7 @@ domain:justinclick.com
 domain:lewebpedagogique.com
 domain:the-globe.com
 domain:xhgfxx.com
-domain:xooit.com
+
 domain:ados.fr
 domain:courtade.fr
 domain:gumteam.info
@@ -151,15 +150,13 @@ domain:internazionale.fr
 domain:reggae.fr
 domain:sitew.fr
 domain:vista-xp.fr
-domain:xooit.fr
 domain:netcat.info
-domain:commentcamarche.net
+
 domain:floracity.net
 domain:force-download.net
 domain:xsilence.net
 domain:fredzone.org
 domain:hiwit.org
-domain:xooit.org
 domain:yoolink.to
 domain:louvainfo.be
 domain:depotoir.ca
@@ -170,10 +167,9 @@ domain:fluentin3months.com
 domain:forum-auto.com
 domain:forum-webmaster.com
 domain:gamesgb.com
-domain:sites.google.com
+
 domain:ithaowai.com
 domain:lb-h.com
-domain:le-bon-plan.com
 domain:le-projet-olduvai.com
 domain:musclesenmetal.com
 domain:mynascarraceblog.com
@@ -188,7 +184,6 @@ domain:surlatoile.com
 domain:torontois.com
 domain:webrankinfo.com
 domain:websitevaluestat.com
-domain:yabiladi.com
 domain:agoravox.fr
 domain:dnslookup.fr
 domain:eg2.fr
@@ -196,10 +191,7 @@ domain:monstertruck-team16.fr
 domain:picadilist.fr
 domain:superforum.fr
 domain:websitelist.in
-domain:bladi.info
-domain:korben.info
 domain:manucure.info
-domain:forum-actif.net
 domain:gutefrage.net
 domain:contrepoints.org
 domain:ebooks-gratuit.org
@@ -218,7 +210,6 @@ domain:xn--n8j3klh359l8iza.com
 domain:lefriand.blogspot.com
 domain:atifco.ro
 domain:fleniveau1auleopoldoquerol.blogspot.com
-domain:blog4ever.com
 domain:quindecim.de
 domain:yaajmexico.org
 domain:sel-alternative.org
@@ -229,7 +220,6 @@ domain:dcard.tw
 domain:cmlv-rp.com
 domain:revolublog.com
 domain:isati.be
-domain:youtube.com
 domain:ausraelim.com.au
 domain:rantop.org
 domain:onlineseochecker.com
